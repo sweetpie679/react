@@ -15,9 +15,9 @@ If you used the stencil code, this is `https://<your GitHub username>.github.io/
 
 ****************READ HERE!**************************************************************
 
-I deployed the app as per indturctions in the handout
+I deployed the app as per instructions in the handout
 
-Unfortunately I can't deploy it.
+Unfortunately I can't deploy it on github pages.
 
 All buttons have states that can be updated by clicking to select and clicking to unselect
 
