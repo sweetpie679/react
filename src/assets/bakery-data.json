@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Chocolate Chip Cookies",
+    "description": "Four classic chocolate chip cookies",
+    "price": 7.99,
+    "image": "images/anika.png",
+    "type": "Cake",
+    "dietary": "Nut-free"
+  },
+  {
+    "name": "Matcha Mille Crepe Cake",
+    "description": "Layers of matcha crepe and matcha cream filling, topped with strawberries",
+    "price": 4.99,
+    "image": "images/aubrey.png",
+    "type": "Cake",
+    "dietary": "Gluten-free"
+  },
+  {
+    "name": "Egg Custard Bun",
+    "description": "A fluffy steamed bun with a savory egg filling",
+    "price": 2.99,
+    "image": "images/connie.png",
+    "type": "Pastry",
+    "dietary": "Nut-free"
+  },
+  {
+    "name": "Steamed Taro Buns",
+    "description": "Two soft steamed buns filled with gooey purple taro filling",
+    "price": 5.99,
+    "image": "images/dylan.png",
+    "type": "Pastry",
+    "dietary": "Nut-free"
+  },
+  {
+    "name": "Chocolate Fudge Brownie",
+    "description": "A rich fudge brownie drizzled with chocolate ganache",
+    "price": 3.99,
+    "image": "images/isaac.png",
+    "type": "Cake",
+    "dietary": "Gluten-free"
+  },
+  {
+    "name": "Macarons",
+    "description": "A box of three macarons in assorted flavors",
+    "price": 4.99,
+    "image": "images/jeff.png",
+    "type": "Pastry",
+    "dietary": "Gluten-free"
+
+  },
+  {
+    "name": "Multigrain Bread",
+    "description": "A loaf of fresh-baked multigrain bread",
+    "price": 4.99,
+    "image": "images/jenny.png",
+    "type": "Bread",
+    "dietary": "Nut-free"
+  },
+  {
+    "name": "Croissant",
+    "description": "A classic butter croissant with a flaky crust",
+    "price": 2.99,
+    "image": "images/jessie.png",
+    "type": "Pastry",
+    "dietary": "Nut-free"
+  },
+  {
+    "name": "Toast with Butter",
+    "description": "A slice of toast with a pat of butter",
+    "price": 1.99,
+    "image": "images/kelly.png",
+    "type": "Bread",
+    "dietary": "Gluten-free"
+  },
+  {
+    "name": "Tiramisu",
+    "description": "A classic tiramisu with layers of coffee-soaked ladyfingers and mascarpone cream",
+    "price": 3.99,
+    "image": "images/lauren.png",
+    "type": "Bread",
+    "dietary": "Nut-free"
+  },
+
+  {
+    "name": "Everything Bagel",
+    "description": "A toasted bagel with sesame seeds, poppy seeds, and dried onion",
+    "price": 2.99,
+    "image": "images/miku.png",
+    "type": "Pastry",
+    "dietary": "Nut-free"
+  },
+
+  {
+    "name": "Cheesecake",
+    "description": "A slice of classic New York cheesecake topped with strawberry",
+    "price": 3.99,
+    "image": "images/sunny.png",
+    "type": "Cake",
+    "dietary": "Gluten-free"
+  }
+]
